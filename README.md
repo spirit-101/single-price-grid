@@ -4,11 +4,11 @@
 
 <hr>
 
-🌐 [View the live site](https://spirit-101.github.io/3-column-preview-card/)
+🌐 [View the live site](https://spirit-101.github.io/single-price-grid/)
 
-🧠 [Check out the solution](https://www.frontendmentor.io/solutions/3column-preview-card-OIqVxV9cEV)
+🧠 [Check out the solution](https://www.frontendmentor.io/solutions/single-price-grid-component-XucI6zkE_c)
 
-📝 [View the challenge](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-)
+📝 [View the challenge](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc)
 
 ---
 
@@ -24,7 +24,7 @@
 
 - Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-- You can see a live site at [3-Column Preview Card](https://spirit-101.github.io/3-column-preview-card/)
+- You can see a live site at [3-Column Preview Card](https://spirit-101.github.io/single-price-grid/)
 
 ### Built with
 
